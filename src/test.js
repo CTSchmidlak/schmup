@@ -41,3 +41,13 @@ if (num>29)
 	array.push("englishman");
 	console.log(array);
 }
+
+//testing 'not' operator.
+
+var name ="Bill Bob";
+
+if (!name){
+	console.log("John Smith");
+} else {
+	console.log(name);
+}
