@@ -2,7 +2,7 @@
 console.log("whats up TS?");
 console.log("hows it going");
 console.log("Cooper".length);
-
+000000
 
 //function practice
 var num = 30;
